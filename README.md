@@ -1,7 +1,6 @@
-# Netvork
+# SocialBook
 Social media app using flask
-Netvork provides a platform for people to share their thoughts, experiences, and ideas, and to engage with others in meaningful ways. With a clean and user-friendly interface, Netvork aims to create a positive online environment for people to connect and engage with each other.
-![screenshot](https://github.com/haleelsada/Netvork/blob/main/static/photos/ss%20Netvork.png?raw=true)
+SocialBook provides a platform for people to share their thoughts, experiences, and ideas, and to engage with others in meaningful ways. With a clean and user-friendly interface, Netvork aims to create a positive online environment for people to connect and engage with each other.
 ## Technologies used
 The following technologies were used to build this app:
 - Flask for API and backend
@@ -75,7 +74,7 @@ password: joker
 ```
 
 ## Contributers
-[Haleel Sada](https://github.com/haleelsada)
+SameerMankotia(https://github.com/sameermankotia)
 ## Licence
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/haleelsada/Netvork/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License.
 
