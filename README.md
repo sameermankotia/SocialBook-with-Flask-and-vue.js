@@ -32,11 +32,11 @@ Install `DB Browser for SQlite` to manage database and `Redis` for jobs and data
 
 1.Clone this repository
 ```
-git clone https://github.com/haleelsada/Netvork.git
+https://github.com/sameermankotia/SocialBook-with-Flask-and-vue.js.git
 ```
 2.open terminal inside this repository and run local_setup.sh to setup environment and isntall packages needed
 ```
-cd Netvork
+cd SocialBook
 sh local_setup.sh
 ```
 3.activate virtual environment
